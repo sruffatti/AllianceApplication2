@@ -8,7 +8,7 @@ package DiscoveryService;
  *
  */
 public interface GoogleAPI {
-	final String apiKey = "AIzaSyDBMTCxp7f3iz-tM4kDH2mFpOMlDwDsGG0";
+	final String apiKey = "";
 	
 	String getApiKey();
 }
